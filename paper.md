@@ -1,5 +1,5 @@
 # Titel
-Autors: widmann, J;  
+Autors: widmann, J; Köhler, N;
 
 ## Chapter A
 
