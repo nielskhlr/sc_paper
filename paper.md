@@ -1,5 +1,5 @@
 # Titel
-Autors: widmann, J; Köhler, N; Albert Einstein, Max Mustermann
+Autors: widmann, J; Köhler, N; Albert Einstein, Max Mustermann, Marie Curie 
 
 
 ## Chapter A
