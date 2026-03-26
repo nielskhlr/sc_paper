@@ -1,5 +1,5 @@
 # Titel
-Autors: widmann, J; Köhler, N; Albert Einstein
+Autors: widmann, J; Köhler, N; Albert Einstein, Max Mustermann
 
 
 ## Chapter A
